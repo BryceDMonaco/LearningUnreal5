@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1Z/56OTOGBBPRAOM841M1GBTW.uasset",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LP/RTQWVDC29OZSLWEX73GPPC.uasset"
+			]
+		}
+	]
+}
