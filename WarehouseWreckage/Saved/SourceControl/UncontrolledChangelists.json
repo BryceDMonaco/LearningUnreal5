@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/Levels/Minimal_Default.umap",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/Main.umap",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/Levels/Main.umap",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/Levels/Main_BuiltData.uasset",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/BP_Barrel.uasset",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/Minimal_Default1.umap",
+				"C:/Users/Bryce/Documents/Unreal Projects/LearningUnreal5/WarehouseWreckage/Content/Levels/Minimal_Default1.umap"
 			]
 		}
 	]
