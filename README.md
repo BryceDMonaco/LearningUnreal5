@@ -3,7 +3,7 @@
  
 ## Projects
 
-###IntroProject
+### IntroProject
 
 ![](IntroProject/Saved/AutoScreenshot.png)
 
