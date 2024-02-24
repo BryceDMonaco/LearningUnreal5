@@ -26,4 +26,5 @@ A third person platforming game on one small level with code written in C++.
 ![](CryptRaider/Saved/AutoScreenshot.png)
 
 A first person game where the player must pick up a statue to bring to a specific area to open a secret wall.
+
 **NOTE:** CryptRaider/Content/MedievalDungeon is a __REQUIRED__ content pack which was not included in this repo, the content pack can be downloaded from [here](https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2)
