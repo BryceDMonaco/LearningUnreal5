@@ -76,3 +76,6 @@ Build/*/**
 # Not included content pack because it takes up too much space, but do whitelist the readme
 CryptRaider/Content/MedievalDungeon/*
 !CryptRaider/Content/MedievalDungeon/README.txt
+
+# Don't ignore generated screenshots for readme
+!**/Saved/AutoScreenshot.png
